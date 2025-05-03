@@ -1,31 +1,31 @@
 # Fundamentos-Linguagens-UFC
 
 ├── README.md <br/>
-├── 01-introducao/
-│   └── README.md         – Introdução às Linguagens de Programação (linha do tempo)
-├── 02-ambientes/
-│   └── README.md         – Diagramas de compiladores, interpretadores e máquinas virtuais
-├── 03-sintaxe-semantica/
-│   └── README.md         – Mini‑gramática e análise léxica
-├── 04-tipos-de-dados/
-│   └── README.md         – Comparativo de tipagem em três linguagens
-├── 05-estruturas-de-controle/
-│   └── README.md         – Código de exemplo com seleção e repetição
-├── 06-subprogramas/
-│   └── README.md         – Exemplos de passagem de parâmetros (valor vs. referência)
-├── 07-implementacao-subprogramas/
-│   └── README.md         – Desenho e explicação da pilha de chamadas
-├── 08-orientacao-objetos/
-│   └── README.md         – Modelagem de hierarquia de classes
-├── 09-concorrencia/
-│   └── README.md         – Exemplo de concorrência (threads vs. processos)
-├── 10-gerenciamento-memoria/
-│   └── README.md         – Quadro comparativo de gestão de memória
+├── 01-introducao/<br/>
+│   └── README.md         – Introdução às Linguagens de Programação (linha do tempo)<br/>
+├── 02-ambientes/<br/>
+│   └── README.md         – Diagramas de compiladores, interpretadores e máquinas virtuais<br/>
+├── 03-sintaxe-semantica/<br/>
+│   └── README.md         – Mini‑gramática e análise léxica<br/>
+├── 04-tipos-de-dados/<br/>
+│   └── README.md         – Comparativo de tipagem em três linguagens<br/>
+├── 05-estruturas-de-controle/<br/>
+│   └── README.md         – Código de exemplo com seleção e repetição<br/>
+├── 06-subprogramas/<br/>
+│   └── README.md         – Exemplos de passagem de parâmetros (valor vs. referência)<br/>
+├── 07-implementacao-subprogramas/<br/>
+│   └── README.md         – Desenho e explicação da pilha de chamadas<br/>
+├── 08-orientacao-objetos/<br/>
+│   └── README.md         – Modelagem de hierarquia de classes<br/>
+├── 09-concorrencia/<br/>
+│   └── README.md         – Exemplo de concorrência (threads vs. processos)<br/>
+├── 10-gerenciamento-memoria/<br/>
+│   └── README.md         – Quadro comparativo de gestão de memória<br/>
 ├── 11-programacao-funcional/
-│   └── README.md         – Exemplo funcional com recursão e funções de alta ordem
-├── 12-programacao-logica/
-│   └── README.md         – Problema lógico modelado em Prolog
-├── 13-scripts-web/
-│   └── README.md         – Script de automação ou manipulação de dados
-└── 14-tendencias/
-    └── README.md         – Análise crítica de linguagem emergente
+│   └── README.md         – Exemplo funcional com recursão e funções de alta ordem<br/>
+├── 12-programacao-logica/<br/>
+│   └── README.md         – Problema lógico modelado em Prolog<br/>
+├── 13-scripts-web/<br/>
+│   └── README.md         – Script de automação ou manipulação de dados<br/>
+└── 14-tendencias/<br/>
+    └── README.md         – Análise crítica de linguagem emergente<br/>
