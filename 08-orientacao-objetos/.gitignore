@@ -1,0 +1,15 @@
+.vs/
+*.suo
+*.user
+
+[Bb]in/
+[Oo]bj/
+
+*.generated.cs
+*.designer.cs
+project.lock.json
+project.assets.json
+
+*.nupkg
+*.nuget.props
+*.nuget.targets
