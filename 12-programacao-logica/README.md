@@ -38,4 +38,4 @@ Ele está dividido em duas seções principais:
     - **Resposta Esperada:** `X = ana.`
  
 ### Conclusão
-A programação lógica, exemplificada pelo Prolog, oferece uma forma poderosa de resolver problemas que envolvem lógica, raciocínio e busca em bases de conhecimento complexas. Ao invés de nos preocuparmos com laços e controle de fluxo, focamos em descrever o problema de forma precisa e declarativa. A modelagem da árvore genealógica demonstra a elegância e o poder de inferência deste paradigma, que é amplamente utilizado em áreas como inteligência artificial, processamento de linguagem natural e sistemas especialistas.
+A programação lógica, exemplificada pelo Prolog, oferece uma forma poderosa de resolver problemas que envolvem lógica, raciocínio e busca em bases de conhecimento complexas. Ao invés de nos preocuparmos com laços e controle de fluxo, focamos em descrever o problema de forma precisa e declarativa.
